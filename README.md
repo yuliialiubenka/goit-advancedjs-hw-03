@@ -29,8 +29,8 @@ assignment requirements.
 ```text
 src/
 |-- index.html
+|-- main.js
 |-- js/
-|   |-- main.js
 |   |-- pixabay-api.js
 |   `-- render-functions.js
 `-- css/
